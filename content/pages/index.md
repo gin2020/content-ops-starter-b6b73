@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team
+      text: Создай свой сайт
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
